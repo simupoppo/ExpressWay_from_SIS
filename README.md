@@ -4,5 +4,5 @@
 
 ## License
 クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス  
-コモンズ証：http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja
+コモンズ証：http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja  
 リーガルコード：http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
