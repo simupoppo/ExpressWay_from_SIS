@@ -1296,7 +1296,7 @@ Image[NEW][0]=SIS_Expwy_Road_G_clane_01S.7.3,-64,-96
 #	Expressway	lane expansion		stop
 --------------------------------------------------------------------------------
 obj=building
-name=SIS_E_Stop_lane_expanstion_R
+name=SIS_E_Stop_lane_expansion_R
 copyright=simu_poppo
 #original:SIS_Road_Project(Shirakami/Ebi)
 type=stop
@@ -1329,7 +1329,7 @@ icon=> SIS_Expwy_Road_G_lane_expand.0.0
 cursor=SIS_Expwy_Road_G_lane_expand.0.2,-64,-144
 --------------------------------------------------------------------------------
 obj=building
-name=SIS_E_Stop_lane_expanstion_L
+name=SIS_E_Stop_lane_expansion_L
 copyright=simu_poppo
 #original:SIS_Road_Project(Shirakami/Ebi)
 type=stop
