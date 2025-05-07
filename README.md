@@ -9,4 +9,5 @@
 リーガルコード：http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 ## Update History
-2025.04.22 ver.0 公開
+2025.04.22 ver.0 公開  
+2025.05.07 ver.1 本公開
