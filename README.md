@@ -8,6 +8,9 @@
 コモンズ証：http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja  
 リーガルコード：http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
+## Disclaimer
+本アドオンのダウンロード、インストール、使用、改造その他により発生した一切の損害について、作者及び原作者は一切の責任を負いません。
+
 ## Update History
 2025.04.22 ver.0 公開  
 2025.05.07 ver.1 本公開
